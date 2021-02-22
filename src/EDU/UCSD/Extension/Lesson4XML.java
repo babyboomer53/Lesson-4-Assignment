@@ -6,7 +6,6 @@ import org.w3c.dom.*;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.*;
-import javax.xml.validation.Schema;
 import java.io.*;
 
 public class Lesson4XML {
@@ -71,6 +70,6 @@ public class Lesson4XML {
         System.out.println();
         System.out.println("Results of XML parsing using XPATH:");
         lesson4XML.useXPATHtoParseXMLFile();
-        System.out.println("All done!");
+        System.out.println("\nAll done!");
     }
 }
