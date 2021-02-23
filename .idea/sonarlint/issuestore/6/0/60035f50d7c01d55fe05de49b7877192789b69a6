@@ -1,9 +1,9 @@
 
-X	java:S125 "<This block of commented-out lines of code should be removed.(Ì­˜î8í¹—¿ü.
-K
-java:S1481#")Remove this unused "root" local variable.(„Êï«úÿÿÿÿ8»Œ³Àü.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àı§„
 P
-java:S2755"3Disable access to external entities in XML parsing.(¦¢öŒ8Ù£ä¾ü.
+java:S2755"3Disable access to external entities in XML parsing.(¦¢öŒ8Ù£ä¾ü.
 Z
-java:S1854#"8Remove this useless assignment to local variable "root".(„Êï«úÿÿÿÿ8»Œ³Àü.
+java:S1854$"8Remove this useless assignment to local variable "root".(„Êï«úÿÿÿÿ8»Œ³Àü.
+K
+java:S1481$")Remove this unused "root" local variable.(„Êï«úÿÿÿÿ8»Œ³Àü.
+X	java:S125!"<This block of commented-out lines of code should be removed.(Ì­˜î8í¹—¿ü.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àı§„
