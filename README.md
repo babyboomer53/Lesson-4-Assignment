@@ -1,7 +1,7 @@
 # Lesson-4-Assignment
 
 The  Lesson4XML four XML program is invoked without arguments to parse a file
-named JobResult_UCSD.Ext.xml, which contains the following XML structure:
+named JobResult_UCSDExt.xml, which contains the following XML structure:
 ```xml
 <jobresult>
     <serial>0000012345</serial>

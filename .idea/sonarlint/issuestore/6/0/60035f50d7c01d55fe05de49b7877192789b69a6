@@ -1,9 +1,17 @@
 
-P
-java:S2755"3Disable access to external entities in XML parsing.(¦¢öŒ8Ù£ä¾ü.
-Z
-java:S1854$"8Remove this useless assignment to local variable "root".(„Êï«úÿÿÿÿ8»Œ³Àü.
-K
-java:S1481$")Remove this unused "root" local variable.(„Êï«úÿÿÿÿ8»Œ³Àü.
-X	java:S125!"<This block of commented-out lines of code should be removed.(Ì­˜î8í¹—¿ü.
+[
+java:S1854ˆ"8Remove this useless assignment to local variable "root".(„Êï«úÿÿÿÿ8»Œ³Àü.
+U
+java:S1197)"8Move the array designator from the variable to the type.(Šú÷å8Û„áü.
+L
+java:S1481ˆ")Remove this unused "root" local variable.(„Êï«úÿÿÿÿ8»Œ³Àü.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àı§„
+8
+java:S3626$"Remove this redundant jump.(ûÁİ…8ÖÃ÷âü.
+V
+java:S2755œ"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ8Î¤áü.
+Y	java:S125…"<This block of commented-out lines of code should be removed.(Ì­˜î8í¹—¿ü.
+Q
+java:S2755®"3Disable access to external entities in XML parsing.(ğ¨ºî8İ½çü.
+Q
+java:S2755"3Disable access to external entities in XML parsing.(¦¢öŒ8Ù£ä¾ü.
