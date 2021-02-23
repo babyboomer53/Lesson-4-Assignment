@@ -23,7 +23,7 @@ Lesson4XML uses three methods to retrieve the text component of the "serial",
 "visible-string"  and "unsigned"  elements of  the document.  The methods  of
 retrieval  are  DOM, SAX  and XPATH.  A successful run  of the program should
 generate something resembling the following:
-<pre>
+```
 Results of XML parsing using DOM parser:
 serial: 0000012345
 visible-string: 000000007b020000
@@ -38,14 +38,14 @@ Results of XML parsing using XPATH:
 serial: 0000012345
 visible-string: 000000007b020000
 unsigned: 255
-</pre>
+```
 This  is my first exposure to the use of Java for manipulating XML documents.
 Of  the  three methodologies  I  implemented,  I found  SAX  to  be the  most
 challenging. XPATH seems to be the most versatile. Using XPATH, the following
 two lines…
-<pre>
+```
         String expression = "//serial|//visible-string|//unsigned";
         NodeList nodeList =
         (NodeList)xpath.compile(expression).evaluate(document, XPathConstants.NODESET);
-</pre>
+```
 … are all  that were required to generate a list of the targeted  nodes.
